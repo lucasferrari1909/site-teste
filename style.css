@@ -1,0 +1,60 @@
+/**/
+
+body{
+    text-align: center;
+}
+header{
+    box-shadow: black;
+    min-height: 150px;
+    text-align: center;
+    padding-top: 20px;
+}
+hr{
+    max-width: 50px;
+    text-align: center;
+}
+main{
+    margin: auto;
+    max-width: 1300px;
+}
+h1{
+    color: rgb(72,72,127);
+    font-size: 56px;
+    font-weight: 700;
+}
+a{
+    text-decoration: none;
+}
+
+button{
+    background-color: rgb(72, 50, 153);
+    border-radius: 2px;
+    border: none;
+    padding: 5px 16px;
+    margin: 16px;
+}
+p.botao{
+    color: white;
+}
+img.banner{
+    width: 100%;
+    max-width: 1050px;
+}
+img{
+    max-width: 370px;
+}
+section{
+    text-align: center;
+}
+div.galeria{
+    margin: auto;
+    text-align: center;
+    max-width: 1300px;
+}
+img.galeira{
+    padding: 5px;
+}
+h2{
+    font-size: 36px;
+    font-weight: 500;
+}
